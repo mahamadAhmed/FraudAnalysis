@@ -21,5 +21,4 @@ Class: Target variable (0 for non-fraud, 1 for fraud).
 
 ## Summary of Results
 Balanced Dataset: Undersampling was applied to balance the dataset, resulting in an equal distribution of fraudulent and non-fraudulent transactions.
-Correlation Analysis: Several features (V2, V4, V11, V19) were positively correlated with fraudulent transactions, while others (V3, V7, V10, V12, V14, V17) were negatively correlated.
 Model Accuracy: The Logistic Regression model achieved an accuracy of ~95% on the balanced dataset. Further improvements are possible by tuning model parameters or trying other advanced models.
