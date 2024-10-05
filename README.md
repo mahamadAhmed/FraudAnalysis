@@ -5,10 +5,10 @@ This project involves analyzing a credit card fraud dataset and building machine
 Credit card fraud detection is critical for financial systems. Fraudulent transactions are rare compared to legitimate ones, which creates an imbalance in the dataset. This project uses various techniques like scaling features and undersampling to balance the data and trains machine learning models to improve accuracy in fraud detection.
 
 ## Features:
-### Data Preprocessing:### Handling imbalanced data and scaling features.
-### Data Visualization: Correlation heatmaps and class distribution visualizations.
-### Model Training: Logistic Regression, K-Nearest Neighbors, Support Vector Machine, and Decision Tree Classifier models.
-### Model Evaluation: Accuracy and F1-score evaluation for balanced and imbalanced datasets.
+Data Preprocessing:Handling imbalanced data and scaling features.
+Data Visualization: Correlation heatmaps and class distribution visualizations.
+Model Training: Logistic Regression, K-Nearest Neighbors, Support Vector Machine, and Decision Tree Classifier models.
+Model Evaluation: Accuracy and F1-score evaluation for balanced and imbalanced datasets.
 
 ## Dataset
 The dataset used for this project can be found https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud. It contains credit card transactions made by European cardholders in September 2013. The dataset includes 492 fraudulent transactions out of 284,807 total transactions, making it highly imbalanced.
